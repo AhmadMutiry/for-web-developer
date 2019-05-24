@@ -77,9 +77,11 @@ https://caniuse.com/#compare=ie+11,edge+14,firefox+50,chrome+58,safari+10,ios_sa
 ----------
 
 معدل سرعة الانترنت :
-6 / 3
+3G: 6 Mpbs
+4G: 28 Mpbs
+متوسط سرعة نقل البيانات download للهواتف حسب تقرير مقياس لشبكة 
+هذا يعتمد على تغطية الشبكه وتوفرها بهذه المعدلات فتغطية 3G أعلى من 4G
 
-https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/state-of-the-internet-connectivity-visualization.jsp
 
 </div>
 
