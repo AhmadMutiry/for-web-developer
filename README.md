@@ -1,5 +1,4 @@
 <div dir="rtl">
-# for web developer <br/>
 احصائيات محدثة تساعد مطور الـ web application  في السعودية
 <br/>
  على صنع تجربه أفضل للمستخدم
