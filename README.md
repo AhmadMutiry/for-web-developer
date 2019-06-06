@@ -1,7 +1,8 @@
 <div dir="rtl">
 # for web developer <br/>
-احصائيات تهم مطور الـ web application  في السعودية
-
+احصائيات محدثة تساعد مطور الـ web application  في السعودية
+<br/>
+ على صنع تجربه أفضل للمستخدم
 ![معلومات عن متصفحي الانترنت](https://d2mxuefqeaa7sj.cloudfront.net/s_B8E462FBF3F605F1E330F2B7BF3200827B0A716D46CBEBAC8921B21A0BD8D4B3_1507751755925_flag-for-saudi-arabia_1f1f8-1f1e6.png)
 
 ----------
