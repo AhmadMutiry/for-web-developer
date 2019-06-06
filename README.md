@@ -1,6 +1,6 @@
 <div dir="rtl">
-# for-web-designer
-احصائيات مفيدة لصانعي الويب في السعودية
+# for web developer
+احصائيات تهم مطور الـ web application  في السعودية
 
 ![معلومات عن متصفحي الانترنت](https://d2mxuefqeaa7sj.cloudfront.net/s_B8E462FBF3F605F1E330F2B7BF3200827B0A716D46CBEBAC8921B21A0BD8D4B3_1507751755925_flag-for-saudi-arabia_1f1f8-1f1e6.png)
 
@@ -19,7 +19,7 @@ from http://gs.statcounter.com
 
 ----------
 
-- حجم استخدام المتصفحات :
+- :speech_balloon: حجم استخدام المتصفحات :
 
 Desktop:
 
@@ -38,17 +38,16 @@ Mobile:
 
 
 
-- دعم المتصفحات :
+- :globe_with_meridians: دعم المتصفحات :
 
 | E 11 | Edge 12 | Chrome 49 | Safari & Chrome for iOS 10.0-10.2 | Chrome 61 for Android | IE Mobile 11 |
 
 الخصائص : 
 [Can I use](https://caniuse.com/#compare=ie+11,edge+12,chrome+49,ios_saf+10.0-10.2,and_chr+61,ie_mob+11)
-https://caniuse.com/#compare=ie+11,edge+14,firefox+50,chrome+58,safari+10,ios_saf+10.0-10.2,android+4.4,and_chr+66,ie_mob+10
 
 ----------
 
--  Viewport دقة الشاشة للهواتف :
+- :iphone:  Viewport دقة الشاشة للهواتف :
 
 | 360x640  | 26.25% |
 | -------- | ------ |
@@ -60,7 +59,7 @@ https://caniuse.com/#compare=ie+11,edge+14,firefox+50,chrome+58,safari+10,ios_sa
 
 
 
-- دقة الشاشة  :
+- :computer: دقة الشاشة  :
 
 | 1366x768  | 34.02% |
 | --------- | ------ |
@@ -76,7 +75,7 @@ https://caniuse.com/#compare=ie+11,edge+14,firefox+50,chrome+58,safari+10,ios_sa
 
 ----------
 
-معدل سرعة الانترنت :
+معدل سرعة الانترنت :rocket: :
 <br/>
 3G: 6 Mpbs <br/>
 4G: 28 Mpbs <br/>
@@ -89,6 +88,18 @@ https://caniuse.com/#compare=ie+11,edge+14,firefox+50,chrome+58,safari+10,ios_sa
 <br/>
 [تقرير الربع الرابع من خدمة قياس](https://www.meqyas.sa/static/reports/Meqyas_Q4_2018_Report_English.pdf)
 <br/>
+
+----------
+<br/>
+:pray:
+<br/>
+
+المشاركة مفتوحة لتطوير المستند فإذا تملك احصائيات ترغب بإضافتها كل ماعليك إضافة Pull request
+<br/>
+:sunglasses:
+<br/>
+اذا هناك خطأ في إحصاذيات المستند نسعد بفتح تذكرة Issues لنناقشها معك
+
 </div>
 
 
