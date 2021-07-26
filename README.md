@@ -6,12 +6,11 @@
  على صنع تجربه أفضل للمستخدم
 <br/>
  
-![معلومات عن متصفحي الانترنت](https://d2mxuefqeaa7sj.cloudfront.net/s_B8E462FBF3F605F1E330F2B7BF3200827B0A716D46CBEBAC8921B21A0BD8D4B3_1507751755925_flag-for-saudi-arabia_1f1f8-1f1e6.png)
+![معلومات عن متصفحي الانترنت](https://cdn.countryflags.com/thumbs/saudi-arabia/flag-800.png)
 
 ----------
 
-
-![Mobile-first](https://d2mxuefqeaa7sj.cloudfront.net/s_B8E462FBF3F605F1E330F2B7BF3200827B0A716D46CBEBAC8921B21A0BD8D4B3_1507755494594_mobile-phone_1f4f1.png)
+! Mobile-first
 
 
 from http://gs.statcounter.com
@@ -88,7 +87,7 @@ Mobile:
 هذا يعتمد على تغطية الشبكه وتوفرها بهذه المعدلات كمثال حجم تغطية 3G أعلى من 4G
  وكذلك الحواجز التي تحجب الشبكة والبعد عن الابراج
 <br/>
-متوصط سرعة الشبكه لاشتراكات الهواتف مع اخذ العوامل المؤثره 3Mpbs
+متوسط سرعة الشبكه لاشتراكات الهواتف مع اخذ العوامل المؤثره 3Mpbs
 <br/>
 [تقرير الربع الرابع من خدمة قياس](https://www.meqyas.sa/static/reports/Meqyas_Q4_2018_Report_English.pdf)
 <br/>
